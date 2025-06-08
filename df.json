@@ -1,0 +1,161 @@
+{
+    "personal_info": {
+        "name": "Unknown",
+        "email": "Unknown",
+        "phone": "Unknown",
+        "location": {
+            "city": "Pune",
+            "country": "India",
+            "remote_preference": "Unknown"
+        },
+        "summary": "Python Developer with experience in Python, Tensorflow, Numpy, C, C++, MySQL, and various platforms.",
+        "linkedin": "Unknown",
+        "github": "Unknown"
+    },
+    "experience": [
+        {
+            "company": "Fresher",
+            "company_info": {
+                "industry": "Unknown",
+                "size": "Unknown"
+            },
+            "title": "Python Developer",
+            "level": "entry",
+            "employment_type": "full-time",
+            "dates": {
+                "start": "Unknown",
+                "end": "Present",
+                "duration": "6 months"
+            },
+            "responsibilities": [
+                "Python programming"
+            ],
+            "technical_environment": {
+                "technologies": [
+                    "Python",
+                    "Tensorflow",
+                    "Numpy",
+                    "C",
+                    "C++",
+                    "MySQL"
+                ],
+                "methodologies": [
+                    "Unknown"
+                ],
+                "tools": [
+                    "Ubuntu",
+                    "Fedora",
+                    "Cent OS",
+                    "Windows"
+                ]
+            }
+        }
+    ],
+    "education": [
+        {
+            "degree": {
+                "level": "ME",
+                "field": "Computer Engineering",
+                "major": "Unknown"
+            },
+            "institution": {
+                "name": "Savitribai Phule Pune University",
+                "location": "Pune, Maharashtra",
+                "accreditation": "Unknown"
+            },
+            "dates": {
+                "start": "Unknown",
+                "expected_graduation": "2016-01"
+            },
+            "achievements": {
+                "gpa": null,
+                "honors": "Unknown",
+                "relevant_coursework": [
+                    "Unknown"
+                ]
+            }
+        },
+        {
+            "degree": {
+                "level": "B.E",
+                "field": "Computer Engineering",
+                "major": "Unknown"
+            },
+            "institution": {
+                "name": "Savitribai Phule Pune University",
+                "location": "Pune, Maharashtra",
+                "accreditation": "Unknown"
+            },
+            "dates": {
+                "start": "Unknown",
+                "expected_graduation": "2014-01"
+            },
+            "achievements": {
+                "gpa": null,
+                "honors": "Unknown",
+                "relevant_coursework": [
+                    "Unknown"
+                ]
+            }
+        }
+    ],
+    "skills": {
+        "technical": {
+            "programming_languages": [
+                {
+                    "name": "Python",
+                    "level": "intermediate"
+                },
+                {
+                    "name": "C++",
+                    "level": "intermediate"
+                },
+                {
+                    "name": "C",
+                    "level": "intermediate"
+                }
+            ],
+            "frameworks": [
+                {
+                    "name": "Tensorflow",
+                    "level": "intermediate"
+                },
+                {
+                    "name": "Numpy",
+                    "level": "intermediate"
+                }
+            ],
+            "databases": [
+                {
+                    "name": "MySQL",
+                    "level": "intermediate"
+                }
+            ],
+            "cloud": [
+                {
+                    "name": "Unknown",
+                    "level": "Unknown"
+                }
+            ]
+        },
+        "languages": [
+            {
+                "name": "Unknown",
+                "level": "Unknown"
+            }
+        ]
+    },
+    "projects": [
+        {
+            "name": "Unknown",
+            "description": "Unknown",
+            "technologies": [
+                "Unknown"
+            ],
+            "role": "Unknown",
+            "url": "Unknown",
+            "impact": "Unknown"
+        }
+    ],
+    "certifications": ""
+}
